@@ -1,1 +1,1 @@
-Link to the template files: https://github.com/tomitokko/django-social-media-template
+Link to see the sample output : https://bhaskar464.pythonanywhere.com/signin?next=/
